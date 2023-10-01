@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login">LogIn</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login">Click here to Login</string>
+    <string name="clich_here_to_register">Clich here to Register</string>
+    <string name="todo">TODO</string>
+</resources>

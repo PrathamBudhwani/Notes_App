@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90453447311",
+    "project_id": "notes-app-61776",
+    "storage_bucket": "notes-app-61776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90453447311:android:b4aee8e75b77e7582a96fa",
+        "android_client_info": {
+          "package_name": "com.prathambudhwani.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeq1uGEVKq2tG-xqQ7rOhDId3pC4q46S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
